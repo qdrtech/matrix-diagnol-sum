@@ -17,8 +17,6 @@ const diagnolSum = (matrix) => {
     totalSum += l2r;
     totalSum += r2l;
 
-    console.log(totalSum);
-
     return totalSum;
 }
 
