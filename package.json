@@ -1,0 +1,14 @@
+{
+  "name": "matrix-diagnol-sum",
+  "version": "1.0.0",
+  "description": "sum of a square matrix without counting overlap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qdr_tech<quenton@qdrtech.com>"
+  ],
+  "author": "qdr_tech <quenton@qdrtech.com>",
+  "license": "MIT"
+}
